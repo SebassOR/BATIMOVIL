@@ -1,0 +1,7 @@
+C:\Users\Sebas\Documents\MCUXpressoIDE_24.12.148\workspace\frdmmcxn947_vuart_freertos_hello_cm33_core0\drivers/fsl_clock.h:1489:20:CLOCK_EnableClock	24	static
+../board/clock_config.c:47:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:83:6:BOARD_BootClockFRO12M	24	static
+../board/clock_config.c:151:6:BOARD_BootClockFROHF48M	24	static
+../board/clock_config.c:225:6:BOARD_BootClockFROHF144M	24	static
+../board/clock_config.c:304:6:BOARD_BootClockPLL150M	48	static
+../board/clock_config.c:397:6:BOARD_BootClockPLL100M	48	static
